@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "hunday-26-3-fabric-client",
+      "name": "Hunday 26.3 Fabric Client",
+      "description": "Fabric kliens Minecraft 26.3-hoz.",
+      "minecraftVersion": "26.3",
+      "loader": "Fabric",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Hunday2001/BRTGLauncherModpacks/releases/download/hunday-26.3-fabric-client-1.0.0/hunday-26.3-fabric-client-1.0.0.zip",
+      "sha256": "d918f769ade7d57010ce3d5877dcf3b360601040bb26a7f8bfa1efd80a1e0230"
+    }
+  ]
+}
